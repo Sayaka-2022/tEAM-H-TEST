@@ -1,1 +1,3 @@
-
+from flask import FLASK
+app = FLASK(_name_)
+import tEAM-H-TEST.main
